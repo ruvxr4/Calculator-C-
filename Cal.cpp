@@ -30,7 +30,7 @@ int main() {
         printf("result:\n%.0f\n", result);
 
     return 0;
-}
+}//end if
 
 }
 
